@@ -1,6 +1,7 @@
 #Daniel Flores Sanchez
 #ITESO. Arquitectura computacional.
 
+
 .text
 	li $s0, 0 # Variable que selecciona la operacion a ejecutar
 	li $s1, 5 # Inicializacion de los valores con los que se calculara todo
